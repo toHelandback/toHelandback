@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 👨‍🎓 I'm currently doing my Masters in CS from NUST
+- 🌱 I'm currently learning Flutter 🐦
 <!--
 **toHelandback/toHelandback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
